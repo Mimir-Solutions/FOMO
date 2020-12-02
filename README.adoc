@@ -1,0 +1,7 @@
+= FOMO
+
+
+
+npm init --yes
+
+truffle init
